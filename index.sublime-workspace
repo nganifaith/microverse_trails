@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/admin/microverse_trails/index.html",
+		"/Users/admin/Downloads/fcc-test-suite-template-master/index.html",
+		"/file.html",
+		"/index.html",
+		"/Users/admin/Downloads/eleganter-template/index.html",
+		"/Users/admin/Downloads/developer-v2.3/index.html",
+		"/Users/admin/Downloads/index.html",
+		"/Users/admin/Downloads/developer-v2.3 3/index.html",
+		"/Users/admin/project0/index.html",
+		"/Users/admin/Downloads/developer-v2.3/assets/scss/_mixins.scss",
+		"/Users/admin/Downloads/developer-v2.3/license.txt",
+		"/Users/admin/Downloads/project0 2/README.md",
+		"/Users/admin/Downloads/developer-v2.3.zip",
+		"/Users/admin/Desktop/index.html",
+		"/Users/admin/Downloads/wordpress/index.php",
+		"/Users/admin/Downloads/urtechbuddy.json",
+		"/Users/admin/Downloads/facilities TOSIN/Index.html",
+		"/Users/admin/Downloads/facilities 4/assets/js/fancybox/jquery.fancybox.js",
+		"/Users/admin/Desktop/facilities 2/facilities.html",
+		"/Users/admin/Downloads/hotels-booking-theme-master/facilities.html",
+		"/Users/admin/Downloads/webinar-89677086329 (1).ics",
+		"/Users/admin/ojams.html/ojams.html",
+		"/Users/admin/daniel.html/daniel.html",
+		"/Users/admin/Desktop/project0",
+		"/Users/admin/Desktop/README.md",
+		"/Users/admin/Downloads/project0-3/README.md",
+		"/Users/admin/Downloads/project0/project0",
+		"/Users/admin/lecture0/image0.html",
+		"/Users/admin/Documents/portfolio.html",
+		"/Users/admin/Documents/GitHub/hotels-booking-theme/assets/css/facilities.html",
+		"/Users/admin/Documents/GitHub/microapi-main-website/index.html",
+		"/Users/admin/Documents/GitHub/Email-microapi/contributors.txt",
+		"/Users/admin/Desktop/facilities.css",
+		"/Users/admin/Documents/GitHub/hotels-booking-theme/facilities.html",
+		"/Users/admin/Downloads/facilities 5/Index.html",
+		"/Users/admin/Downloads/facilities.html",
+		"/Users/admin/Documents/Bistro/index.html",
+		"/Users/admin/Downloads/facilities 3/Index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
